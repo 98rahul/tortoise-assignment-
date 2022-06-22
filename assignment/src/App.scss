@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    // background-color: aliceblue;
+    width: 100vw;
+}
+
+@media screen and (max-width:426px) {
+    .App {
+        justify-content: flex-start;
+    }
+
+}
