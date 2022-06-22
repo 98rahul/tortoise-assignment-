@@ -1,6 +1,6 @@
 import './App.css'
 import React, { useState, useEffect } from 'react'
-import Tortoise from './tortoise'
+import Tortoise from './Tortoise'
 function App() {
   const [min, setMin] = useState(0)
   const [sec, setSec] = useState(0)
