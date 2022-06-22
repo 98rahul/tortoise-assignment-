@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import './tortoise.css'
+import './Tortoise.css'
 const Tortoise = ({
   min,
   sec,
